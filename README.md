@@ -20,9 +20,9 @@ In this session we will delve into how you can build and deploy your own AI assi
 
 In this workshop, you will:
 
-  - Understand how GitHub Copilot works and how to leverage it in your own software projects
-  - Understand common AI chatbot architectures
-  - Learn how to build your own AI chatbot and deploy it to Azure
+  - Understand detailed insights into the functionality of GitHub Copilot and the strategic methods for effectively incorporating it into your individual software projects.
+  - Familiarized with common AI chatbot architectures.
+  - Create and build your own AI chatbot and deploy it to Azure.
 
 ## :mega: Prerequisites
 Before joining the workshop, there are a few items that you will need to install or bring with you.
