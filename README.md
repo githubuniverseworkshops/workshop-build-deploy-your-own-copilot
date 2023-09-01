@@ -1,5 +1,5 @@
-<h1 align="center">Workshop Title</h1>
-<h5 align="center">@facilitators</h3>
+<h1 align="center">Build and deploy your own copilot with GitHub Copilot</h1>
+<h5 align="center">@stebje & @vfm2</h3>
 
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
@@ -10,7 +10,10 @@
 > Please provide a description of your workshop.
 
 - **Who is this for**: TBD
-- **What you'll learn**: TBD
+- **What you'll learn**: 
+
+In this session we will delve into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process. First we will cover some theory on GitHub Copilot functionalities and AI chatbot architectures, before moving onto a practical exercise where we build our own AI chatbot and deploy it to Azure, all while leveraging various GitHub Copilot X features.
+
 - **What you'll build**: TBD
 
 ## Learning Objectives
