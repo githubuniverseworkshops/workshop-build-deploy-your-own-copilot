@@ -14,18 +14,32 @@
 
 - **What you'll build**: An AI-powered chatbot
 
-## Learning Objectives
+## :dart: Learning Objectives
 
 In this workshop, you will:
 
   - Understand how GitHub Copilot works and how to leverage it in your own software projects
-  - Understand common AI chatbot architectures
+  - Understand common AI chatbot use cases
   - Learn how to build your own AI chatbot and deploy it to Azure
 
 ## :mega: Prerequisites
 Before joining the workshop, there are a few items that you will need to install or bring with you.
-- point 1
-- point 2
+
+> [!NOTE]
+> Some of the features used in this workshop are metered/billed services, and can incur additional charges. Please see links below for more info.
+> - [GitHub Docs: About billing for GitHub Copilot](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
+> - [GitHub Docs: About billing for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
+> - [Azure Docs: Pricing](https://azure.microsoft.com/en-us/pricing/)
+
+### Must-have
+
+- A [GitHub.com account](https://github.com/)
+- An [Azure account](https://azure.microsoft.com/en-us)
+- Access to [Copilot](https://github.com/features/copilot)
+- Access to [Codespaces](https://github.com/features/codespaces)
+
+### Nice-to-have
+- Access to [Copilot CLI](https://githubnext.com/projects/copilot-cli/)
 
 ## :books: Resources
 - [Resource 1]()
