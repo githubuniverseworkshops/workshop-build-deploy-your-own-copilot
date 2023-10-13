@@ -25,12 +25,6 @@ In this workshop, you will:
 ## :mega: Prerequisites
 Before joining the workshop, there are a few items that you will need to install or bring with you.
 
-> [!NOTE]
-> Some of the features used in this workshop are metered/billed services, and can incur additional charges. Please see links below for more info.
-> - [GitHub Docs: About billing for GitHub Copilot](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
-> - [GitHub Docs: About billing for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
-> - [Azure Docs: Pricing](https://azure.microsoft.com/en-us/pricing/)
-
 ### Must-have
 
 - A [GitHub.com account](https://github.com/)
@@ -40,6 +34,12 @@ Before joining the workshop, there are a few items that you will need to install
 
 ### Nice-to-have
 - Access to [Copilot CLI](https://githubnext.com/projects/copilot-cli/)
+
+> [!NOTE]
+> Some of the features used in this workshop are metered/billed services, and can incur additional charges. Please see links below for more info.
+> - [GitHub Docs: About billing for GitHub Copilot](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
+> - [GitHub Docs: About billing for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
+> - [Azure Docs: Pricing](https://azure.microsoft.com/en-us/pricing/)
 
 ## :books: Resources
 - [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot)
