@@ -12,7 +12,7 @@
 - **Who is this for**: Developers
 - **What you'll learn**: In this session we will delve into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process. First we will cover some theory on GitHub Copilot as a product and AI chatbots in general, before moving onto a practical exercise where we build our own AI chatbot and deploy it to Azure, all while leveraging various GitHub Copilot features.
 
-- **What you'll build**: An AI-powered chatbot
+- **What you'll build**: An AI-powered chatbot (template :point_right: [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot))
 
 ## :dart: Learning Objectives
 
@@ -42,5 +42,6 @@ Before joining the workshop, there are a few items that you will need to install
 - Access to [Copilot CLI](https://githubnext.com/projects/copilot-cli/)
 
 ## :books: Resources
-- [Resource 1]()
-- [Resource 2]()
+- [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot)
+- [GitHub Docs: GitHub Copilot](https://docs.github.com/copilot)
+- [GitHub Docs: GitHub Codespaces](https://docs.github.com/en/codespaces)
