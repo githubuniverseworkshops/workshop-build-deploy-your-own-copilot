@@ -10,7 +10,7 @@
 > In this workshop we dive into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process.
 
 - **Who is this for**: Developers
-- **What you'll learn**: In this session we will delve into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process. First we will cover some theory on GitHub Copilot functionalities and AI chatbot architectures, before moving onto a practical exercise where we build our own AI chatbot and deploy it to Azure, all while leveraging various GitHub Copilot X features.
+- **What you'll learn**: In this session we will delve into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process. First we will cover some theory on GitHub Copilot as a product and AI chatbots in general, before moving onto a practical exercise where we build our own AI chatbot and deploy it to Azure, all while leveraging various GitHub Copilot features.
 
 - **What you'll build**: An AI-powered chatbot
 
