@@ -33,7 +33,11 @@ Before joining the workshop, there are a few items that you will need to install
 - Access to [Codespaces](https://github.com/features/codespaces)
 
 ### Nice-to-have
+
 - Access to [Copilot CLI](https://githubnext.com/projects/copilot-cli/)
+  - Package: [`@githubnext/github-copilot-cli`](https://www.npmjs.com/package/@githubnext/github-copilot-cli)
+- An [OpenAI API key](https://platform.openai.com/account/api-keys)
+  - Make sure that you have available an [Credit balance](https://platform.openai.com/account/billing/overview) for API consumption
 
 > [!NOTE]
 > Some of the features used in this workshop are metered/billed services, and can incur additional charges. Please see links below for more info.
