@@ -39,7 +39,7 @@ Before joining the workshop, there are a few items that you will need to install
 - An [OpenAI API key](https://platform.openai.com/account/api-keys)
   - Make sure that you have available an [Credit balance](https://platform.openai.com/account/billing/overview) for API consumption
 
-> [!NOTE]
+> [!WARNING]
 > Some of the features used in this workshop are metered/billed services, and can incur additional charges. Please see links below for more info.
 > - [GitHub Docs: About billing for GitHub Copilot](https://docs.github.com/en/billing/managing-billing-for-github-copilot/about-billing-for-github-copilot)
 > - [GitHub Docs: About billing for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
@@ -49,3 +49,6 @@ Before joining the workshop, there are a few items that you will need to install
 - [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot)
 - [GitHub Docs: GitHub Copilot](https://docs.github.com/copilot)
 - [GitHub Docs: GitHub Codespaces](https://docs.github.com/en/codespaces)
+- [Microsoft Docs: Microsoft Bot Framework](https://dev.botframework.com/)
+- [Microsoft Docs: Azure AI Platform](https://azure.microsoft.com/en-us/solutions/ai)
+- [OpenAI Docs: API Reference](https://platform.openai.com/docs/api-reference)
