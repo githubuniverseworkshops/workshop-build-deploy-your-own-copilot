@@ -4,7 +4,8 @@
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
   <a href="#books-resources">Resources</a> •
-  <a href="#learning-objectives">Learning Objectives</a>
+  <a href="#dart-learning-objectives">Learning Objectives</a> •
+  <a href=https://github.com/orgs/community/discussions/74470>Discussion</a>
 </p>
 
 > In this workshop we dive into how you can build and deploy your own AI assistant, and how GitHub Copilot can help you throughout this process.
@@ -47,6 +48,7 @@ Before joining the workshop, there are a few items that you will need to install
 
 ## :books: Resources
 - [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot)
+- [GitHub Discussion: Feedback and comments for the workshop](https://github.com/orgs/community/discussions/74470)
 - [GitHub Docs: GitHub Copilot](https://docs.github.com/copilot)
 - [GitHub Docs: GitHub Codespaces](https://docs.github.com/en/codespaces)
 - [Microsoft Docs: Microsoft Bot Framework](https://dev.botframework.com/)
