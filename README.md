@@ -47,6 +47,7 @@ Before joining the workshop, there are a few items that you will need to install
 > - [Azure Docs: Pricing](https://azure.microsoft.com/en-us/pricing/)
 
 ## :books: Resources
+- [PDF: Workshop slides](./Slides_GitHubUniverse2023_BuildDeployYourOwnCopilot.pdf)
 - [`githubuniverseworkshops/my-universe-copilot`](https://github.com/githubuniverseworkshops/my-universe-copilot)
 - [GitHub Discussion: Feedback and comments for the workshop](https://github.com/orgs/community/discussions/74470)
 - [GitHub Docs: GitHub Copilot](https://docs.github.com/copilot)
